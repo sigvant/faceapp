@@ -11,7 +11,7 @@ import Recog from './components/Recog/Recog';
 import './App.css';
 
 const app = new Clarifai.App({
-	apiKey: 'd357f16484234f8089564ffcaddce166'
+	apiKey: ''
 });
 
 const particlesOptions = {
